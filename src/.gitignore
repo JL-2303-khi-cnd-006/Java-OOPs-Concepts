@@ -1,0 +1,34 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Eclipse files
+*.project
+*.classpath
+*.settings/
+.metadata/
+
+# NetBeans files
+nbproject/
+nbbuild/
+dist/
+build/
+
+# Mac OS X files
+.DS_Store
