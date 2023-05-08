@@ -8,7 +8,7 @@ public class NormalMember extends Members{
 
     public NormalMember(String name, int memberID, int memberSince){
         super(name, memberID, memberSince);
-        System.out.println("Have a nice day");
+        // System.out.println("Have a nice day");
     }
 
     @Override
